@@ -5,7 +5,7 @@ This project presents an AI-powered system designed to automatically detect faul
 
 🔍 Problem Identification
 
-Solar panels often suffer from performance degradation due to dust, cracks, and shading, which reduce their electricity generation capacity. Detecting these issues manually requires significant time, effort, and skilled labor. This project addresses that challenge by introducing an automated, image-based fault detection system.
+Solar panels often suffer from performance degradation due to dust,bird pee,leaks,snow , dust, cracks, and shading, which reduce their electricity generation capacity. Detecting these issues manually requires significant time, effort, and skilled labor. This project addresses that challenge by introducing an automated, image-based fault detection system.
 
 🎯 Objective
 
@@ -77,4 +77,5 @@ Supports sustainable energy management by maintaining optimal solar energy gener
 🧠 Summary
 
 In essence, this project combines AI, image processing, and sustainability to create an intelligent diagnostic system for solar panels. By using CNN-based image classification and Grad-CAM visualization, it delivers an efficient, transparent, and scalable approach to solar panel fault detection — paving the way for smarter and greener energy management.
+
 
