@@ -1,4 +1,4 @@
-                                          🌞 Solar Panel Fault Detection using CNN for Sustainable Energy Management
+                                       🌞 Solar Panel Fault Detection using CNN for Sustainable Energy Management
 📘 Overview
 
 This project presents an AI-powered system designed to automatically detect faults in solar panels using image classification. Traditional manual inspections of solar panels are slow, costly, and prone to human error. This solution leverages Deep Learning techniques—specifically a Convolutional Neural Network (CNN)—to identify defects such as cracks, dirt accumulation, and shading from solar panel images, thereby improving maintenance efficiency and overall energy production.
@@ -77,3 +77,4 @@ Supports sustainable energy management by maintaining optimal solar energy gener
 🧠 Summary
 
 In essence, this project combines AI, image processing, and sustainability to create an intelligent diagnostic system for solar panels. By using CNN-based image classification and Grad-CAM visualization, it delivers an efficient, transparent, and scalable approach to solar panel fault detection — paving the way for smarter and greener energy management.
+
